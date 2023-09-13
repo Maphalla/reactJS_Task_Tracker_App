@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactJS_Task_Tracker_App/static/css/main.c7a34e96.css",
-    "main.js": "/reactJS_Task_Tracker_App/static/js/main.9c00577c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/reactJS_Task_Tracker_App/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo1.png": "/reactJS_Task_Tracker_App/static/media/logo1.9339ef8cac413a9d749c.png",
-    "index.html": "/reactJS_Task_Tracker_App/index.html",
-    "main.c7a34e96.css.map": "/reactJS_Task_Tracker_App/static/css/main.c7a34e96.css.map",
-    "main.9c00577c.js.map": "/reactJS_Task_Tracker_App/static/js/main.9c00577c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/reactJS_Task_Tracker_App/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Tee_Movies/static/css/main.555347b3.css",
+    "main.js": "/Tee_Movies/static/js/main.25028cfc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Tee_Movies/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Tee_Movies/index.html",
+    "static/media/search.svg": "/Tee_Movies/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.555347b3.css.map": "/Tee_Movies/static/css/main.555347b3.css.map",
+    "main.25028cfc.js.map": "/Tee_Movies/static/js/main.25028cfc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Tee_Movies/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7a34e96.css",
-    "static/js/main.9c00577c.js"
+    "static/css/main.555347b3.css",
+    "static/js/main.25028cfc.js"
   ]
 }
